@@ -10,10 +10,11 @@ The main purpose of this project is to showcase proficiency in applying clusteri
 ---
 ## Technical Details
 
-Created a dataset with `make_blobs` to simulate clustering scenarios.
+- **Data Creation**: Generated a synthetic dataset using `make_blobs` for clustering analysis.
 - **Determined Optimal Clusters**: Used the Elbow and Silhouette methods to find the ideal number of clusters.
 - **Applied K-Means Clustering**: Implemented K-Means with the optimal number of clusters.
 - **Evaluated Performance**: Used a confusion matrix to assess the accuracy of clustering results.
+
 
 ---
 ## Dependency Versions
