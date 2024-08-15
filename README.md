@@ -19,4 +19,4 @@ The main purpose of this project is to showcase proficiency in applying clusteri
 ---
 ## Dependency Versions
 
-You can import the Python environment in Anaconda using the python_env.yaml file.
+The Python environment used in this project can be set up in Anaconda using the python_env.yaml file.
