@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This project aims to show the application of the Skitlearn K-Means algorithm to identify clusters in a 
-synthetic dataset. 
+This project aims to demonstrate the application of the K-Means algorithm from Scikit-learn in Python to identify clusters in a synthetic dataset.
 
 The main purpose of this project is to showcase proficiency in applying clustering algorithms.
 
